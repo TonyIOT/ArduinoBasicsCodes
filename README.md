@@ -18,3 +18,4 @@
 - Flame—火焰报警器
 - ShakeSwitch—震动报警器
 - NixieTube—跳动的数码管
+- Random—随机骰子
