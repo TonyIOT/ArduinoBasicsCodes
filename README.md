@@ -19,3 +19,4 @@
 - ShakeSwitch—震动报警器
 - NixieTube—跳动的数码管
 - Random—随机骰子
+- SevSeg—数码管库的使用
