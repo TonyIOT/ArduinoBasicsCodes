@@ -21,3 +21,4 @@
 - Random—随机骰子
 - SevSeg—数码管库的使用
 - SevSegFour—四位数码管的使用
+- SevTimer—数字时钟
