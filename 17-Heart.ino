@@ -40,15 +40,6 @@ void setup() {
   }
 }
 
-void ledopen()
-{
-  for (int i = 0; i < 8; i++)//将点阵屏正极拉高，负极拉低，开启显示
-  {
-    digitalWrite(leds[i], HIGH);
-    digitalWrite(gnds[i], LOW);
-  }
-}
-
 void ledclean()
 {
   for (int i = 0; i < 8; i++)//将点阵屏正极ladies，负极拉高，关断显示
