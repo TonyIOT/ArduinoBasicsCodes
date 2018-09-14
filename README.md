@@ -24,3 +24,5 @@
 - SevTimer—数字时钟
 - Matrix—点阵屏
 - Heart—心动点阵
+- Roll—流动点阵
+
