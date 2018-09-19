@@ -25,4 +25,5 @@
 - Matrix—点阵屏
 - Heart—心动点阵
 - Roll—流动点阵
+- Shift—74HC595扩展IO
 
