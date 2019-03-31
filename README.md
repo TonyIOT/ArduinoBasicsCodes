@@ -31,5 +31,9 @@
 - IRrecvDemo—红外遥控
 - Stepper_Motor—步进电机
 - Stepper_Control—步进电机驱动库的使用
+- Servo—舵机控制
+- LM35—模拟温度传感器LM35
+
+
 
 
