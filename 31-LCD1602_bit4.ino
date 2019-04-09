@@ -1,3 +1,8 @@
+/*
+ * LCD1602_bit4
+ * LCD1602驱动显示Hello World
+ */
+ 
 int LCD1602_RS = 7;
 int LCD1602_EN = 6;
 int DB[4] = { 2, 3, 4, 5};
